@@ -42,7 +42,7 @@ I design **FSM-based hardware in Verilog HDL**, verify it in **ModelSim**, and b
 
 <img src="https://skillicons.dev/icons?i=c,cpp,py,bash&theme=dark" alt="C, C++, Python, Bash" />
 
-C++ (OOP · STL · template metaprogramming basics) · C · Python (basics) · SQL · Bash · Data Structures & Algorithms
+**C++ (OOP · STL · template metaprogramming basics) · C · Python (basics) · SQL · Bash · Data Structures & Algorithms**
 
 ### 🧰 Systems, Networking & Tools
 
@@ -52,7 +52,7 @@ C++ (OOP · STL · template metaprogramming basics) · C · Python (basics) · S
 <img src="https://img.shields.io/badge/SDL2-1f2937?style=for-the-badge" alt="SDL2" />
 <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 
-Operating Systems · Computer Networks · Multithreading & async programming (basics)
+**Operating Systems · Computer Networks · Multithreading & async programming (basics)**
 
 ---
 
