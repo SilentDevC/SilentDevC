@@ -60,11 +60,11 @@ Operating Systems · Computer Networks · Multithreading & async programming (ba
 
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
-| ⚙️ **GCD Calculator** | Hardware GCD device (subtractive Euclid) with a Moore FSM control unit and an 8-bit datapath. Includes a request/done handshake, and timing races fixed through ModelSim waveform analysis. | `Verilog HDL` `ModelSim` |
-| 🔐 **Secure Access System** *(in progress)* | Multi-module design: BCD encoder, PIPO/PISO shift registers, one-shot timers, magnitude comparator, code-selection unit. Porting a VHDL reference design to Verilog. | `Verilog HDL` `ModelSim` |
-| 🎮 **CHIP-8 Emulator** *(in progress)* | CPU emulator with opcode decoding, memory/register arrays and call stack handling, built to understand how a CPU executes instructions. | `C++17` `CMake` `SDL2` |
+| ⚙️ [**GCD Calculator**](https://github.com/SilentDevC/GCD-Greatest-Common-Divisor-Device) | Hardware GCD device (subtractive Euclid) with a Moore FSM control unit and an 8-bit datapath. Includes a request/done handshake, and timing races fixed through ModelSim waveform analysis. | `Verilog HDL` `ModelSim` |
+| 🔐 [**Secure Access System**](https://github.com/SilentDevC/Security-System) *(in progress)* | Multi-module design: BCD encoder, PIPO/PISO shift registers, one-shot timers, magnitude comparator, code-selection unit. Porting a VHDL reference design to Verilog. | `Verilog HDL` `ModelSim` |
+| 🎮 [**CHIP-8 Emulator**](https://github.com/SilentDevC/CHIP-8-Emulator) *(in progress)* | CPU emulator with opcode decoding, memory/register arrays and call stack handling, built to understand how a CPU executes instructions. | `C++17` `CMake` `SDL2` |
 | 📁 [**File Explorer**](https://github.com/SilentDevC/FileExplorer) | Command-line file manager for navigating and managing the file system. | `C++` `std::filesystem` `fstream` |
-| 💬 [**Messaging App**](https://github.com/SilentDevC/Messaging-App) | Telegram-style client/server desktop messenger. | `C++` `Boost` `OOP` |
+| 💬 [**Messaging App**](https://github.com/SilentDevC/Messaging-App) *(in progress)* | Telegram-style client/server desktop messenger. | `C++` `Boost` `OOP` |
 
 ---
 
