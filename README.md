@@ -70,7 +70,7 @@ I design **FSM-based hardware in Verilog HDL**, verify it in **ModelSim**, and b
 
 ## 🌍 Languages
 
-🇬🇧 English (professional) · 🇦🇲 Armenian (native) · 🇷🇺 Russian (native)
+🇬🇧 English (C1) · 🇦🇲 Armenian (native) · 🇷🇺 Russian (native)
 
 ---
 
