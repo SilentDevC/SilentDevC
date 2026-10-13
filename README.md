@@ -64,7 +64,7 @@ I design **FSM-based hardware in Verilog HDL**, verify it in **ModelSim**, and b
 | 🔐 [**Secure Access System**](https://github.com/SilentDevC/Security-System) *(in progress)* | Multi-module design: BCD encoder, PIPO/PISO shift registers, one-shot timers, magnitude comparator, code-selection unit. Porting a VHDL reference design to Verilog. | `Verilog HDL` `ModelSim` |
 | 🎮 [**CHIP-8 Emulator**](https://github.com/SilentDevC/CHIP-8-Emulator) *(in progress)* | CPU emulator with opcode decoding, memory/register arrays and call stack handling, built to understand how a CPU executes instructions. | `C++17` `CMake` `SDL2` |
 | 📁 [**File Explorer**](https://github.com/SilentDevC/FileExplorer) | Command-line file manager for navigating and managing the file system. | `C++` `std::filesystem` `fstream` |
-| 💬 [**Messaging App**](https://github.com/SilentDevC/Messaging-App) *(in progress)* | Telegram-style client/server desktop messenger. | `C++` `Boost` `OOP` |
+| 💬 [**Messaging App**](https://github.com/SilentDevC/Messaging-App) *(in progress)* | Messaging client/server desktop messenger. | `C++` `Boost` `OOP` |
 
 ---
 
