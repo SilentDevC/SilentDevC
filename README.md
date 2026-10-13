@@ -83,6 +83,4 @@ I design **FSM-based hardware in Verilog HDL**, verify it in **ModelSim**, and b
 
 <img src="assets/waveform.svg" alt="" width="100%" />
 
-<sub>Open to internships & junior roles in hardware design, embedded, and systems software.</sub>
-
 </div>
