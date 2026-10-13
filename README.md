@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/suren-amyan-04abb4321/"><img src="https://img.shields.io/badge/LinkedIn-Suren%20Amyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/github/followers/SilentDevC?style=for-the-badge&logo=github&label=Followers&color=0e3b4a" alt="Followers" />
 
-<img src="waveform.svg" alt="" width="100%" />
+<img src="waveform.svg" alt="" width="110%" />
 
 </div>
 
